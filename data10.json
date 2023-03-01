@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "fname": "ali",
+        "lname": "omar",
+        "city": "baghdad",
+        "age": 22,
+        "degree": 90
+    },
+    {
+        "id": 2,
+        "fname": "adnan",
+        "lname": "ali",
+        "city": "baghdad",
+        "age": 22,
+        "degree": 93
+    },
+    {
+        "id": 3,
+        "fname": "noran",
+        "lname": "omran",
+        "city": "mosel",
+        "age": 21,
+        "degree": 80
+    },
+    {
+        "id": 4,
+        "fname": "huda",
+        "lname": "yaser",
+        "city": "mosel",
+        "age": 23,
+        "degree": 88
+    },
+    {
+        "id": 5,
+        "fname": "maraem",
+        "lname": "mustafa",
+        "city": "anbar",
+        "age": 21,
+        "degree": 78
+    },
+    {
+        "id": 6,
+        "fname": "asma",
+        "lname": "jasem",
+        "city": "anbar",
+        "age": 21,
+        "degree": 99
+    },
+    {
+        "id": 7,
+        "fname": "lina",
+        "lname": "jamal",
+        "city": "baghdad",
+        "age": 21,
+        "degree": 91
+    },
+    {
+        "id": 8,
+        "fname": "jory",
+        "lname": "abd",
+        "city": "baghdad",
+        "age": 23,
+        "degree": 91
+    },
+    {
+        "id": 9,
+        "fname": "myada",
+        "lname": "kamal",
+        "city": "arpil",
+        "age": 23,
+        "degree": 80
+    },
+    {
+        "id": 10,
+        "fname": "waleed",
+        "lname": "basim",
+        "city": "arpil",
+        "age": 21,
+        "degree": 83
+    },
+    {
+        "id": 11,
+        "fname": "ibrahim",
+        "lname": "ahmad",
+        "city": "arpil",
+        "age": 22,
+        "degree": 85
+    },
+    {
+        "id": 12,
+        "fname": "wisam",
+        "lname": "omran",
+        "city": "arpil",
+        "age": 22,
+        "degree": 67
+    },
+    {
+        "id": 13,
+        "fname": "lina",
+        "lname": "ali",
+        "city": "baghdad",
+        "age": 21,
+        "degree": 78
+    },
+    {
+        "id": 14,
+        "fname": "mysam",
+        "lname": "ahmed",
+        "city": "baghdad",
+        "age": 21,
+        "degree": 77
+    },
+    {
+        "id": 15,
+        "fname": "jumana",
+        "lname": "muhand",
+        "city": "baghdad",
+        "age": 22,
+        "degree": 73
+    },
+    {
+        "id": 16,
+        "fname": "zahra",
+        "lname": "ziad",
+        "city": "baghdad",
+        "age": 23,
+        "degree": 99
+    },
+    {
+        "id": 17,
+        "fname": "zahra",
+        "lname": "mohamed",
+        "city": "karkok",
+        "age": 21,
+        "degree": 90
+    },
+    {
+        "id": 18,
+        "fname": "widad",
+        "lname": "hashim",
+        "city": "karkok",
+        "age": 23,
+        "degree": 94
+    },
+    {
+        "id": 19,
+        "fname": "noran",
+        "lname": "hamad",
+        "city": "musel",
+        "age": 23,
+        "degree": 93
+    },
+    {
+        "id": 20,
+        "fname": "hadel",
+        "lname": "kareem",
+        "city": "musel",
+        "age": 21,
+        "degree": 91
+    }
+]
