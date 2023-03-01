@@ -7,14 +7,7 @@
         "age": 22,
         "degree": 90
     },
-    {
-        "id": 2,
-        "fname": "adnan",
-        "lname": "ali",
-        "city": "baghdad",
-        "age": 22,
-        "degree": 93
-    },
+   
     {
         "id": 3,
         "fname": "noran",
@@ -95,14 +88,7 @@
         "age": 22,
         "degree": 67
     },
-    {
-        "id": 13,
-        "fname": "lina",
-        "lname": "ali",
-        "city": "baghdad",
-        "age": 21,
-        "degree": 78
-    },
+   
     {
         "id": 14,
         "fname": "mysam",
@@ -143,14 +129,7 @@
         "age": 23,
         "degree": 94
     },
-    {
-        "id": 19,
-        "fname": "noran",
-        "lname": "hamad",
-        "city": "musel",
-        "age": 23,
-        "degree": 93
-    },
+   
     {
         "id": 20,
         "fname": "hadel",
